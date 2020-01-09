@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "CloudCore Devops"
 
 enableRobotsTXT = true
 
@@ -53,19 +53,11 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
+title = "CloudCore Devops"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-[languages.no]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -74,7 +66,7 @@ time_format_blog = "02.01.2006"
 # Everything below this are Site Params
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "Releaseworks"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
