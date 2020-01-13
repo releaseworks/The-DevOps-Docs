@@ -1,7 +1,7 @@
 ---
-title: "Reference"
-linkTitle: "Reference"
-weight: 9
+title: "Cloud Infrastructure"
+linkTitle: "Cloud Infrastructure"
+weight: 4
 description: >
   Low level reference docs for your project.
 ---
