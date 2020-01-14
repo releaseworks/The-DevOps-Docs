@@ -1,24 +1,29 @@
-
 ---
-title: "Documentation"
-linkTitle: "Documentation"
-weight: 20
-menu:
-  main:
-    weight: 20
+title: "Overview"
+linkTitle: "Overview"
+weight: 1
+description: >
+  An introduction to CloudCore DevOps.
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+At Releaseworks we've been working on technologies to increase the speed at which our clients can adopt DevOps approaches to delivering software. Some of that has involved developing tooling such as our CloudCore CLI for rapidly spinning up Cloud environments using best practices and part of that is in providing training and learning materials for engineers to learn new approaches quickly.
 
+## What is CloudCore DevOps?
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+CloudCore DevOps is the a resource containing the collective knowledge of the Releaseworks team on how to develop the tooling and practices required to run a DevOps environment
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+## Who should use CloudCore Devops?
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+CloudCore DevOps has primarily been written for engineers already working in on DevOps transformation project but it should also be useful for technical leaders looking for guidance on the latest best practices in software delivery. Topics covered by CloudCore DevOps include
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+* **Source Code Management**: How to structure your git projects to reduce code integration problems.
 
+* **Infrastructure as Code**: Methods for managing infrastructure as a code base to enable greater collaboration on operations projects.
+
+* **Continuous Delivery**: Learn how to create a continuous delivery pipeline to allow for rapid repeatable deployments.
+
+## Where should I go next?
+
+* [Getting Started](/getting-started/): How to set up your local environment with the tools used in other sections of this guide.
+* [Releaseworks](https://release.works): Contact Releaseworks for additional support on your DevOps journey.
 
