@@ -1,7 +1,7 @@
 ---
-title: "Contribution Guidelines"
-linkTitle: "Contribution Guidelines"
-weight: 10
+title: "Infrastructure as Code"
+linkTitle: "Infrastructure as Code"
+weight: 5
 description: >
   How to contribute to the docs
 ---
