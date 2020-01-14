@@ -1,7 +1,7 @@
 
 ---
-title: "New Releases"
-linkTitle: "Releases"
+title: "Thoughts from Releaseworks"
+linkTitle: "Posts"
 weight: 20
 ---
 

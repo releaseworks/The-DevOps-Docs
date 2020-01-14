@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "CloudCore Blog"
 linkTitle: "Blog"
 menu:
   main:
