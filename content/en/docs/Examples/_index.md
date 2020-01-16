@@ -5,13 +5,8 @@ linkTitle: "Examples"
 weight: 3
 date: 2017-01-05
 description: >
-  See your project in action!
+  Example templates for you to use to add new content to the Docs
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-Do you have any example **applications** or **code** for your users in your repo or elsewhere? Link to your examples here.
-
-
+## How to use
+Copy one these templates to the relevant section and ammend as required.
