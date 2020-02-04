@@ -1,7 +1,7 @@
 ---
-title: "Source Code Management"
-linkTitle: "Source Code Management"
-weight: 3
+title: "Technology"
+linkTitle: "Technology"
+weight: 6
 description: >
   What does your user need to understand about your project in order to use it - or potentially contribute to it? 
 ---
