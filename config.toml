@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "CloudCore Devops"
+title = "The Devops Docs"
 
 enableRobotsTXT = true
 
@@ -53,7 +53,7 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "CloudCore Devops"
+title = "The Devops Docs"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
