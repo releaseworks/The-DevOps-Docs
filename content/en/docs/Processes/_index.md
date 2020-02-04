@@ -1,6 +1,6 @@
 ---
-title: "Infrastructure as Code"
-linkTitle: "Infrastructure as Code"
+title: "Processes"
+linkTitle: "Processes"
 weight: 5
 description: >
   How to contribute to the docs

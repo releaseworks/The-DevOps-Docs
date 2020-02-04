@@ -3,18 +3,18 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  An introduction to CloudCore DevOps.
+  An introduction to The DevOps Docs.
 ---
 
 At Releaseworks we've been working on technologies to increase the speed at which our clients can adopt DevOps approaches to delivering software. Some of that has involved developing tooling such as our CloudCore CLI for rapidly spinning up Cloud environments using best practices and part of that is in providing training and learning materials for engineers to learn new approaches quickly.
 
-## What is CloudCore DevOps?
+## What are The DevOps Docs?
 
-CloudCore DevOps is the a resource containing the collective knowledge of the Releaseworks team on how to develop the tooling and practices required to run a DevOps environment
+The DevOps Docs is the a resource containing the collective knowledge of the Releaseworks team on how to develop the tooling and practices required to run a DevOps environment
 
-## Who should use CloudCore Devops?
+## Who should use The DevOps Docs?
 
-CloudCore DevOps has primarily been written for engineers already working in on DevOps transformation project but it should also be useful for technical leaders looking for guidance on the latest best practices in software delivery. Topics covered by CloudCore DevOps include
+The DevOps Docs has primarily been written for engineers already working in on DevOps transformation project but it should also be useful for technical leaders looking for guidance on the latest best practices in software delivery. Topics covered by The DevOps Docs include
 
 * **Source Code Management**: How to structure your git projects to reduce code integration problems.
 
