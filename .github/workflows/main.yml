@@ -20,9 +20,11 @@ jobs:
        git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
     - run: ls
     - name: Install Hugo
-      run: sudo apt-get install hugo
-    - name: install npm dependencies
+      run: sudo snap install hugo
+    - name: install postcss-cli
       run: npm install postcss-cli
+    - name: install autoprefixer
+      run: npm install autoprefixer
     - name: build site
       run: hugo 
     - name: S3 Sync
