@@ -29,4 +29,6 @@ As Helm 3 no longer requires tiller k3s and H3lm are best of friends and no addi
 
 While k3s is not a full cluster and if your production environment targets a full cluster then you must test your application against a full Kubernetes implementation. In proof of concept phases however targetting Kubernetes for a final environment k3s can provide you with a complete Kubernetes api to check your application is working the way you intended it to.
 
-Hello Adam.
+### k3s for testing Kubernetes code
+
+As k3s implements the full Kubernetes api it is excellent as an tool for testing the code that deploys your Kubernetes objects is doing what you expect it to without requiring a full cluster to be stood up. As k3s is so lightweight and quick to stand up you can create a k3s environment quicker than a full Kubernetes cluster reducing the time taken to complete automated testing in fa Continous Delivery pipeline.
