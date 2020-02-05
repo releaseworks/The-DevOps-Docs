@@ -28,3 +28,5 @@ As Helm 3 no longer requires tiller k3s and H3lm are best of friends and no addi
 ### k3s as a PoC development environment
 
 While k3s is not a full cluster and if your production environment targets a full cluster then you must test your application against a full Kubernetes implementation. In proof of concept phases however targetting Kubernetes for a final environment k3s can provide you with a complete Kubernetes api to check your application is working the way you intended it to.
+
+Hello Adam.
