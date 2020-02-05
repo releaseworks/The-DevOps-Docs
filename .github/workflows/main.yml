@@ -11,7 +11,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: textbook/git-checkout-submodule-action@2.1.0
+    - uses: actions/checkout@v2
+    - name: Checkout submodules
+      shell: bash
+      run: |
+       auth_header="$(git config --local --get http.https://github.com/.extraheader)"
+       git submodule sync --recursive
+       git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
     - name: Install Hugo
       run: sudo apt-get install hugo
     - name: install npm dependencies
