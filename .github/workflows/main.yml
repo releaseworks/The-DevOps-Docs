@@ -19,8 +19,8 @@ jobs:
        git submodule sync --recursive
        git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
     - run: ls
-    - name: Install Hugo
-      run: sudo snap install hugo
+    - name: Download and install hugo
+      run: wget https://github.com/gohugoio/hugo/releases/download/v0.64.0/hugo_extended_0.64.0_Linux-64bit.deb && sudo dpkg -i hugo_extended_0.64.0_Linux-64bit.deb 
     - name: install postcss-cli
       run: npm install postcss-cli
     - name: install autoprefixer
