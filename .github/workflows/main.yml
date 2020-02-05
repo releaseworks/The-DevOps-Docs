@@ -12,8 +12,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Hugo Actions
-      uses: kevvurs/action-hugo@v1.0-rc2
+    - name: Install Hugo
+      run: sudo apt-get install hugo
+    - name: install npm dependencies
+      run: npm install postcss-cli
+    - name: build site
+      run: hugo 
     - name: S3 Sync
       uses: jakejarvis/s3-sync-action@v0.5.1
       with:
