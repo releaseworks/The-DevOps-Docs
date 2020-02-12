@@ -9,13 +9,7 @@ description: >
 This is a draft. 
 {{% /pageinfo %}}
 
-
-
-There should be whitespace between paragraphs.
-
-You should if possible include an image showing the tool or process you are describing.
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://farm1.staticflickr.com/33/377155179_ed4c846ec5.jpg" alt="4 by 4"><a href="https://www.flickr.com/photos/87724782@N00/377155179">"4 by 4"</a><span> by <a href="https://www.flickr.com/photos/87724782@N00">Tim McFarlane</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 2.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
 
 ## What is Continuous Delivery
 
