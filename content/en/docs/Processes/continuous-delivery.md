@@ -13,7 +13,7 @@ This is a draft.
 
 ## What is Continuous Delivery
 
-> [Continuous Delivery is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way.](https://continuousdelivery.com/)
+> [Continuous Delivery is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way. - Jez Humble](https://continuousdelivery.com/)
 
 Continuous delivery is central to DevOps ways of working, it's goal is to make deployments simple and predictable so they can be done on demand instead of being painful extremely infrequent and highly risky events.
 
