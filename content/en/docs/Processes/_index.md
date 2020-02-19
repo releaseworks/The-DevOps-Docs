@@ -3,7 +3,7 @@ title: "Processes"
 linkTitle: "Processes"
 weight: 5
 description: >
-  How to contribute to the docs
+  What are the processes that make up DevOps?
 ---
 
 {{% pageinfo %}}
