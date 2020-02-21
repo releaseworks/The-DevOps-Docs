@@ -8,6 +8,8 @@ description: >
 
 At Releaseworks we've been working on technologies to increase the speed at which our clients can adopt DevOps approaches to delivering software. Some of that has involved developing tooling such as our CloudCore CLI for rapidly spinning up Cloud environments using best practices and part of that is in providing training and learning materials for engineers to learn new approaches quickly.
 
+Hello Adam.
+
 ## What are The DevOps Docs?
 
 The DevOps Docs is the a resource containing the collective knowledge of the Releaseworks team on how to develop the tooling and practices required to run a DevOps environment
