@@ -6,7 +6,7 @@ description: >
   Continuous delivery a set of practices that grants the ability to release software reliably and repeatedly.
 ---
 {{% pageinfo %}}
-This is a draft. 
+This is a draft.
 {{% /pageinfo %}}
 
 <p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://farm1.staticflickr.com/33/377155179_ed4c846ec5.jpg" alt="4 by 4"><a href="https://www.flickr.com/photos/87724782@N00/377155179">"4 by 4"</a><span> by <a href="https://www.flickr.com/photos/87724782@N00">Tim McFarlane</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 2.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
@@ -21,9 +21,9 @@ The way this is done is to make sure production code is at all times deployable 
 
 In this article we'll run through the practices you need to implement continuous delivery and link to subsequent articles on how to implement them.
 
-### Source Code and Configuration Management 
+### Source Code and Configuration Management
 
-Continuous delivery relies on being able to trace the version of your application running in production to the source code that created it, the configuration applied to it and the infrastructure it runs on. 
+Continuous delivery relies on being able to trace the version of your application running in production to the source code that created it, the configuration applied to it and the infrastructure it runs on.
 
 That's why good source code and configuration management is essential for this to work. Source code management has been around for decades, github and it's equivalents are modern software development staples, if you want to adopt a continuous delivery model everything needed to build and run your software must be tracked in some kind of version control system.
 

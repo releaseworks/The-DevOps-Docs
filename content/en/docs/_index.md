@@ -28,4 +28,3 @@ The DevOps Docs has primarily been written for engineers already working in on D
 
 * [Getting Started](/getting-started/): How to set up your local environment with the tools used in other sections of this guide.
 * [Releaseworks](https://release.works): Contact Releaseworks for additional support on your DevOps journey.
-

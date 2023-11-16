@@ -6,6 +6,10 @@ description: >
   K3s is a lightweight Kubernetes distribution designed for IoT and resource constrained environments. It's lightweight footprint also makes it perfect for development and testing environments"
 ---
 
+{{% pageinfo %}}
+Kubernetes
+{{% /pageinfo %}}
+
 Kubernetes has become the default  orchestration tool for large scale containerised workloads, however not all containerised workloads require such a heavyweight cluster. For development, proof of concept and testing workloads k3s can provide you with a fully Kubernetes compliant environment without the need for a multinode cluster.
 
 ### Installing k3s
